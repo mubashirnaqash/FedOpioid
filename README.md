@@ -1,4 +1,3 @@
-
 # 🚀 Opioid Dependence Classification in Federated Learning Setup 🚀
 
 Welcome to our cutting-edge project, where we tackle the classification of opioid dependence using a federated learning setup. This repository contains a suite of Python scripts designed to preprocess data, build classification models, and demonstrate a federated learning approach, all while considering the utmost respect for data privacy.
